@@ -1,0 +1,25 @@
+# API de Controle de Chamados de Manutenção
+
+## 📋 Sobre o projeto
+
+Este projeto consiste no desenvolvimento de uma API em PHP para controlar chamados de manutenção de equipamentos de uma empresa.
+
+A API permite cadastrar, consultar, atualizar e excluir chamados, facilitando o acompanhamento dos problemas e dos serviços de manutenção.
+
+## 🚀 Tecnologias utilizadas
+
+- PHP
+- PostgreSQL
+- PDO
+- JSON
+- HTTP/REST
+- VS Code
+
+## 📁 Estrutura do projeto
+
+```text
+CriacaoAPI/
+│
+├── chamados.php
+├── conexao.php
+└── banco.sql
